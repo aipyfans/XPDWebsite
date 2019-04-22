@@ -1,0 +1,10 @@
+.DS_Store
+# Editor directories and files
+.idea
+.sass-cache
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
